@@ -8,5 +8,5 @@
 
 
 The website can be viewed using the link:
-https://amarafinbarrs.github.io/A_JavaScript_Technical_Page/#Javascript_and_Java](https://amarafinbarrs.github.io/A_JavaScript_Technical_Page/#Javascript_and_Java)
+[https://amarafinbarrs.github.io/A_JavaScript_Technical_Page/#Javascript_and_Java](https://amarafinbarrs.github.io/A_JavaScript_Technical_Page/#Javascript_and_Java)
 
